@@ -1,0 +1,1497 @@
+#
+#
+# Club Badge and Vehicle asset files..
+#
+#
+# group { shield,flourish,symbol,design,badge,digit,sticker}
+#
+#
+
+tags = type = data_rgba opacity=this,a
+width = 2048
+height = 2048
+
+filter="dominant" lamsid="Category_Rebel"
+filter="dynamic" lamsid="Category_Graphic"
+filter="master" lamsid="Category_Retro"
+filter="rebel" lamsid="Category_Street"
+filter="bikes" lamsid="Bikes"
+filter="bonus" lamsid="Bonus"
+filter="tour" lamsid="Tour"
+filter="speciale" lamsid="SpecialeEdition"
+filter="blank" lamsid="None"
+
+filter="fiftyplus" lamsid="fiftyPlus"
+filter="fiftyplus_club" lamsid="fiftyPlus"
+
+filter="ignition" lamsid="TourName_Ignition"
+filter="apex" lamsid="TourName_Apex"
+filter="photo-finish" lamsid="TourName_PhotoFinish"
+filter="redline" lamsid="TourName_Redline"
+filter="elements" lamsid="TourName_Elements"
+filter="sakura" lamsid="TourName_Sakura"
+filter="hotrod" lamsid="TourName_Downforce"
+filter="graffiti" lamsid="TourName_Midnight"
+filter="lamborghini" lamsid="TourName_Lamborghini"
+filter="pacesetter" lamsid="TourName_Pacesetter"
+filter="turbo-charged" lamsid="TourName_Turbocharged"
+filter="evolution" lamsid="TourName_Evolution"
+filter="lamborghini-icons" lamsid="TourName_LamborghiniIcons"
+filter="torque" lamsid="TourName_Torque"
+filter="rpm" lamsid="TourName_RPM"
+filter="velocity" lamsid="TourName_Velocity"
+filter="horse-power" lamsid="TourName_Horsepower"
+filter="unite-in-speed" lamsid="TourName_UniteInSpeed"
+filter="ebr" lamsid="TourName_EBR"
+filter="amg" lamsid="TourName_AMG"
+filter="nolimits" lamsid="TourName_NoLimits"
+filter="suzuki" lamsid="TourName_Suzuki"
+filter="gameover" lamsid="TourName_GameOver"
+
+folder="liveryEditor/assets/stickers"
+group="sticker" w=512 h=512
+
+file = "no_accolade" accolade="Hot Hatch Racer" driveraccoladelevel=0 clubaccoladelevel=-1
+file = "hot_hatch_racer" accolade="Hot Hatch Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "sports_racer" accolade="Sports Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "performance_racer" accolade="Performance Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "supercar_racer" accolade="Supercar Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "hypercar_racer" accolade="Hypercar Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "bonus_racer" accolade="Bonus Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "circuit_fan" accolade="Circuit Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "p2p_fan" accolade="P2P Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "road_circuit_fan" accolade="Road Circuit Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "solo_challenges" accolade="Solo Challenges" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "club_challenges" accolade="Club Challenges" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "race_events" accolade="Race Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "time_trial_events" accolade="Time Trial Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "drift_events" accolade="Drift Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "sprint_events" accolade="Sprint Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "canada_fan" accolade="Canada Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "chile_fan" accolade="Chile Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "india_fan" accolade="India Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "norway_fan" accolade="Norway Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "uk_fan" accolade="UK Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "japan_fan" accolade="Japan Fan" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "driveclub_tour_events" accolade="DRIVECLUB Tour Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "freeplay_events" accolade="Freeplay Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "commitment" accolade="Commitment" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "all_about_the_win" accolade="All About The Win" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "clean_racing" accolade="Clean Racing" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "drafting" accolade="Drafting" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "drifting" accolade="Drifting" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "overtaker" accolade="Overtaker" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "bikes_racer" accolade="Bikes Racer" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "top_speed_events" accolade="Top Speed Events" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "flamboyant" accolade="Flamboyant" driveraccoladelevel=6 clubaccoladelevel=-1
+file = "live_events" accolade="Live Events" driveraccoladelevel=6 clubaccoladelevel=-1
+
+file = "no_accolade_club" accolade="Hot Hatch Racer" driveraccoladelevel=-1 clubaccoladelevel=0
+file = "hot_hatch_racer_club" accolade="Hot Hatch Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "sports_racer_club" accolade="Sports Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "performance_racer_club" accolade="Performance Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "supercar_racer_club" accolade="Supercar Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "hypercar_racer_club" accolade="Hypercar Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "bonus_racer_club" accolade="Bonus Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "circuit_fan_club" accolade="Circuit Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "p2p_fan_club" accolade="P2P Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "road_circuit_fan_club" accolade="Road Circuit Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "solo_challenges_club" accolade="Solo Challenges" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "club_challenges_club" accolade="Club Challenges" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "race_events_club" accolade="Race Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "time_trial_events_club" accolade="Time Trial Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "drift_events_club" accolade="Drift Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "sprint_events_club" accolade="Sprint Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "canada_fan_club" accolade="Canada Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "chile_fan_club" accolade="Chile Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "india_fan_club" accolade="India Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "norway_fan_club" accolade="Norway Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "uk_fan_club" accolade="UK Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "japan_fan_club" accolade="Japan Fan" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "driveclub_tour_events_club" accolade="DRIVECLUB Tour Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "freeplay_events_club" accolade="Freeplay Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "commitment_club" accolade="Commitment" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "all_about_the_win_club" accolade="All About The Win" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "clean_racing_club" accolade="Clean Racing" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "drafting_club" accolade="Drafting" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "drifting_club" accolade="Drifting" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "overtaker_club" accolade="Overtaker" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "bikes_racer_club" accolade="Bikes Racer" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "top_speed_events_club" accolade="Top Speed Events" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "flamboyant_club" accolade="Flamboyant" driveraccoladelevel=-1 clubaccoladelevel=6
+file = "live_events_club" accolade="Live Events" driveraccoladelevel=-1 clubaccoladelevel=6
+
+folder="liveryEditor/assets/designs"
+group="designdriver" label="PaintJob" w=512 h=512
+
+file = "livery_dominant_01" driverlevel=1 clublevel=-1
+file = "livery_dominant_02" driverlevel=1 clublevel=-1
+file = "livery_dominant_03" driverlevel=2 clublevel=-1
+file = "livery_dominant_04" driverlevel=4 clublevel=-1
+file = "livery_dominant_05" driverlevel=6 clublevel=-1
+file = "livery_dominant_06" driverlevel=8 clublevel=-1
+file = "livery_dominant_07" driverlevel=10 clublevel=-1
+file = "livery_dominant_08" driverlevel=10 clublevel=-1
+file = "livery_dominant_09" driverlevel=12 clublevel=-1
+file = "livery_dominant_10" driverlevel=14 clublevel=-1
+file = "livery_dominant_11" driverlevel=16 clublevel=-1
+file = "livery_dominant_12" driverlevel=18 clublevel=-1
+file = "livery_dominant_13" driverlevel=20 clublevel=-1
+file = "livery_dominant_14" driverlevel=22 clublevel=-1
+file = "livery_dominant_15" driverlevel=24 clublevel=-1
+file = "livery_dominant_16" driverlevel=26 clublevel=-1
+file = "livery_dominant_17" driverlevel=28 clublevel=-1
+file = "livery_dominant_18" driverlevel=30 clublevel=-1
+file = "livery_dominant_19" driverlevel=32 clublevel=-1
+file = "livery_dominant_20" driverlevel=34 clublevel=-1
+file = "livery_dominant_21" driverlevel=36 clublevel=-1
+file = "livery_dominant_22" driverlevel=38 clublevel=-1
+file = "livery_dominant_23" driverlevel=40 clublevel=-1
+file = "livery_dominant_24" driverlevel=40 clublevel=-1
+file = "livery_dominant_25" driverlevel=42 clublevel=-1
+file = "livery_dominant_26" driverlevel=44 clublevel=-1
+file = "livery_dominant_27" driverlevel=46 clublevel=-1
+file = "livery_dominant_28" driverlevel=48 clublevel=-1
+file = "livery_dominant_29" driverlevel=50 clublevel=-1
+file = "livery_dominant_30" driverlevel=50 clublevel=-1
+
+file = "livery_dynamic_01" driverlevel=1 clublevel=-1
+file = "livery_dynamic_02" driverlevel=1 clublevel=-1
+file = "livery_dynamic_03" driverlevel=3 clublevel=-1
+file = "livery_dynamic_04" driverlevel=5 clublevel=-1
+file = "livery_dynamic_05" driverlevel=5 clublevel=-1
+file = "livery_dynamic_06" driverlevel=7 clublevel=-1
+file = "livery_dynamic_07" driverlevel=9 clublevel=-1
+file = "livery_dynamic_08" driverlevel=11 clublevel=-1
+file = "livery_dynamic_09" driverlevel=13 clublevel=-1
+file = "livery_dynamic_10" driverlevel=15 clublevel=-1
+file = "livery_dynamic_11" driverlevel=17 clublevel=-1
+file = "livery_dynamic_12" driverlevel=19 clublevel=-1
+file = "livery_dynamic_13" driverlevel=21 clublevel=-1
+file = "livery_dynamic_14" driverlevel=23 clublevel=-1
+file = "livery_dynamic_15" driverlevel=25 clublevel=-1
+file = "livery_dynamic_16" driverlevel=25 clublevel=-1
+file = "livery_dynamic_17" driverlevel=27 clublevel=-1
+file = "livery_dynamic_18" driverlevel=29 clublevel=-1
+file = "livery_dynamic_19" driverlevel=31 clublevel=-1
+file = "livery_dynamic_20" driverlevel=33 clublevel=-1
+file = "livery_dynamic_21" driverlevel=35 clublevel=-1
+file = "livery_dynamic_22" driverlevel=37 clublevel=-1
+file = "livery_dynamic_23" driverlevel=39 clublevel=-1
+file = "livery_dynamic_24" driverlevel=41 clublevel=-1
+file = "livery_dynamic_25" driverlevel=43 clublevel=-1
+file = "livery_dynamic_26" driverlevel=45 clublevel=-1
+file = "livery_dynamic_27" driverlevel=47 clublevel=-1
+file = "livery_dynamic_28" driverlevel=49 clublevel=-1
+file = "livery_dynamic_29" driverlevel=50 clublevel=-1
+file = "livery_dynamic_30" driverlevel=50 clublevel=-1
+
+file = "livery_rebel_01" driverlevel=1 clublevel=-1
+file = "livery_rebel_02" driverlevel=1 clublevel=-1
+file = "livery_rebel_03" driverlevel=2 clublevel=-1
+file = "livery_rebel_04" driverlevel=4 clublevel=-1
+file = "livery_rebel_05" driverlevel=6 clublevel=-1
+file = "livery_rebel_06" driverlevel=8 clublevel=-1
+file = "livery_rebel_07" driverlevel=10 clublevel=-1
+file = "livery_rebel_08" driverlevel=12 clublevel=-1
+file = "livery_rebel_10" driverlevel=14 clublevel=-1
+file = "livery_rebel_09" driverlevel=15 clublevel=-1
+file = "livery_rebel_11" driverlevel=16 clublevel=-1
+file = "livery_rebel_12" driverlevel=18 clublevel=-1
+file = "livery_rebel_13" driverlevel=20 clublevel=-1
+file = "livery_rebel_14" driverlevel=22 clublevel=-1
+file = "livery_rebel_15" driverlevel=24 clublevel=-1
+file = "livery_rebel_16" driverlevel=26 clublevel=-1
+file = "livery_rebel_17" driverlevel=28 clublevel=-1
+file = "livery_rebel_18" driverlevel=30 clublevel=-1
+file = "livery_rebel_19" driverlevel=32 clublevel=-1
+file = "livery_rebel_20" driverlevel=34 clublevel=-1
+file = "livery_rebel_21" driverlevel=36 clublevel=-1
+file = "livery_rebel_22" driverlevel=38 clublevel=-1
+file = "livery_rebel_23" driverlevel=40 clublevel=-1
+file = "livery_rebel_24" driverlevel=42 clublevel=-1
+file = "livery_rebel_25" driverlevel=44 clublevel=-1
+file = "livery_rebel_26" driverlevel=45 clublevel=-1
+file = "livery_rebel_27" driverlevel=46 clublevel=-1
+file = "livery_rebel_28" driverlevel=48 clublevel=-1
+file = "livery_rebel_29" driverlevel=50 clublevel=-1
+file = "livery_rebel_30" driverlevel=50 clublevel=-1
+
+file = "livery_master_01" driverlevel=1 clublevel=-1
+file = "livery_master_02" driverlevel=1 clublevel=-1
+file = "livery_master_03" driverlevel=3 clublevel=-1
+file = "livery_master_04" driverlevel=5 clublevel=-1
+file = "livery_master_05" driverlevel=7 clublevel=-1
+file = "livery_master_06" driverlevel=9 clublevel=-1
+file = "livery_master_07" driverlevel=11 clublevel=-1
+file = "livery_master_08" driverlevel=13 clublevel=-1
+file = "livery_master_09" driverlevel=15 clublevel=-1
+file = "livery_master_10" driverlevel=17 clublevel=-1
+file = "livery_master_11" driverlevel=19 clublevel=-1
+file = "livery_master_12" driverlevel=21 clublevel=-1
+file = "livery_master_13" driverlevel=23 clublevel=-1
+file = "livery_master_14" driverlevel=25 clublevel=-1
+file = "livery_master_15" driverlevel=25 clublevel=-1
+file = "livery_master_16" driverlevel=27 clublevel=-1
+file = "livery_master_17" driverlevel=29 clublevel=-1
+file = "livery_master_18" driverlevel=31 clublevel=-1
+file = "livery_master_19" driverlevel=33 clublevel=-1
+file = "livery_master_20" driverlevel=35 clublevel=-1
+file = "livery_master_21" driverlevel=35 clublevel=-1
+file = "livery_master_22" driverlevel=37 clublevel=-1
+file = "livery_master_23" driverlevel=39 clublevel=-1
+file = "livery_master_24" driverlevel=41 clublevel=-1
+file = "livery_master_25" driverlevel=43 clublevel=-1
+file = "livery_master_26" driverlevel=45 clublevel=-1
+file = "livery_master_27" driverlevel=47 clublevel=-1
+file = "livery_master_28" driverlevel=49 clublevel=-1
+file = "livery_master_29" driverlevel=50 clublevel=-1
+file = "livery_master_30" driverlevel=50 clublevel=-1
+
+# #################################
+
+file = "livery_bikes_12" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_rc8_r" vehicleLevel=3
+file = "livery_bikes_34" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_rc8_r" vehicleLevel=6
+file = "livery_bikes_57" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_rc8_r" vehicleLevel=9
+file = "livery_bikes_73" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_rc8_r" vehicleLevel=12
+file = "livery_bikes_81" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_rc8_r" vehicleLevel=15
+
+file = "livery_bikes_08" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1" vehicleLevel=3
+file = "livery_bikes_19" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1" vehicleLevel=6
+file = "livery_bikes_28" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1" vehicleLevel=9
+file = "livery_bikes_54" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1" vehicleLevel=12
+file = "livery_bikes_38" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1" vehicleLevel=15
+
+file = "livery_bikes_27" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_zx10_r" vehicleLevel=3
+file = "livery_bikes_30" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_zx10_r" vehicleLevel=6
+file = "livery_bikes_65" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_zx10_r" vehicleLevel=9
+file = "livery_bikes_41" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_zx10_r" vehicleLevel=12
+file = "livery_bikes_47" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_zx10_r" vehicleLevel=15
+
+file = "livery_bikes_01" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bi_bb3" vehicleLevel=3
+file = "livery_bikes_17" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bi_bb3" vehicleLevel=6
+file = "livery_bikes_37" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bi_bb3" vehicleLevel=9
+file = "livery_bikes_23" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bi_bb3" vehicleLevel=12
+file = "livery_bikes_51" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bi_bb3" vehicleLevel=15
+
+file = "livery_bikes_05" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1098" vehicleLevel=3
+file = "livery_bikes_21" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1098" vehicleLevel=6
+file = "livery_bikes_42" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1098" vehicleLevel=9
+file = "livery_bikes_35" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1098" vehicleLevel=12
+file = "livery_bikes_45" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1098" vehicleLevel=15
+
+file = "livery_bikes_07" driverlevel=1 clublevel=-1 filter="bikes" vehicle="hon_cbr1000_rr_sp" vehicleLevel=3
+file = "livery_bikes_15" driverlevel=1 clublevel=-1 filter="bikes" vehicle="hon_cbr1000_rr_sp" vehicleLevel=6
+file = "livery_bikes_56" driverlevel=1 clublevel=-1 filter="bikes" vehicle="hon_cbr1000_rr_sp" vehicleLevel=9
+file = "livery_bikes_09" driverlevel=1 clublevel=-1 filter="bikes" vehicle="hon_cbr1000_rr_sp" vehicleLevel=12
+file = "livery_bikes_78" driverlevel=1 clublevel=-1 filter="bikes" vehicle="hon_cbr1000_rr_sp" vehicleLevel=15
+
+file = "livery_bikes_18" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bmw_s1000_rr_sp" vehicleLevel=3
+file = "livery_bikes_71" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bmw_s1000_rr_sp" vehicleLevel=6
+file = "livery_bikes_03" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bmw_s1000_rr_sp" vehicleLevel=9
+file = "livery_bikes_16" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bmw_s1000_rr_sp" vehicleLevel=12
+file = "livery_bikes_33" driverlevel=1 clublevel=-1 filter="bikes" vehicle="bmw_s1000_rr_sp" vehicleLevel=15
+
+file = "livery_bikes_11" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rr" vehicleLevel=3
+file = "livery_bikes_22" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rr" vehicleLevel=6
+file = "livery_bikes_80" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rr" vehicleLevel=9
+file = "livery_bikes_31" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rr" vehicleLevel=12
+file = "livery_bikes_02" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rr" vehicleLevel=15
+
+file = "livery_bikes_14" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1m" vehicleLevel=3
+file = "livery_bikes_10" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1m" vehicleLevel=6
+file = "livery_bikes_06" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1m" vehicleLevel=9
+file = "livery_bikes_20" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1m" vehicleLevel=12
+file = "livery_bikes_86" driverlevel=1 clublevel=-1 filter="bikes" vehicle="yam_yzf_r1m" vehicleLevel=15
+
+file = "livery_bikes_48" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1299_pan_s" vehicleLevel=3
+file = "livery_bikes_04" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1299_pan_s" vehicleLevel=6
+file = "livery_bikes_24" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1299_pan_s" vehicleLevel=9
+file = "livery_bikes_25" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1299_pan_s" vehicleLevel=12
+file = "livery_bikes_59" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_1299_pan_s" vehicleLevel=15
+
+file = "livery_bikes_92" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_desmo_rr" vehicleLevel=3
+file = "livery_bikes_53" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_desmo_rr" vehicleLevel=6
+file = "livery_bikes_39" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_desmo_rr" vehicleLevel=9
+file = "livery_bikes_63" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_desmo_rr" vehicleLevel=12
+file = "livery_bikes_46" driverlevel=1 clublevel=-1 filter="bikes" vehicle="duc_desmo_rr" vehicleLevel=15
+
+file = "livery_bikes_13" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_h2" vehicleLevel=3
+file = "livery_bikes_77" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_h2" vehicleLevel=6
+file = "livery_bikes_64" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_h2" vehicleLevel=9
+file = "livery_bikes_68" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_h2" vehicleLevel=12
+file = "livery_bikes_85" driverlevel=1 clublevel=-1 filter="bikes" vehicle="kaw_h2" vehicleLevel=15
+
+file = "livery_bikes_105" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ebr_1190_rx" vehicleLevel=15
+file = "livery_bikes_114" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ebr_1190_sx" vehicleLevel=15
+file = "livery_bikes_136" driverlevel=1 clublevel=-1 filter="bikes" vehicle="ktm_1290_sd" vehicleLevel=15
+file = "livery_bikes_106" driverlevel=1 clublevel=-1 filter="bikes" vehicle="suz_gsxr_1000" vehicleLevel=15
+file = "livery_bikes_137" driverlevel=1 clublevel=-1 filter="bikes" vehicle="suz_gsx_s1000" vehicleLevel=15
+file = "livery_bikes_141" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_brut_1090" vehicleLevel=15
+file = "livery_bikes_154" driverlevel=1 clublevel=-1 filter="bikes" vehicle="mv_agusta_f4_rc" vehicleLevel=15
+file = "livery_bikes_152" driverlevel=1 clublevel=-1 filter="bikes" vehicle="apr_rsv4_rf" vehicleLevel=15
+
+# #################################
+
+file = "livery_fiftyplus_01" driverlevel=51 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_02" driverlevel=52 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_03" driverlevel=53 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_04" driverlevel=54 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_05" driverlevel=55 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_06" driverlevel=56 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_07" driverlevel=57 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_08" driverlevel=58 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_09" driverlevel=59 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_10" driverlevel=60 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_11" driverlevel=61 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_12" driverlevel=62 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_13" driverlevel=63 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_14" driverlevel=64 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_15" driverlevel=65 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_16" driverlevel=66 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_17" driverlevel=67 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_18" driverlevel=68 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_19" driverlevel=69 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_20" driverlevel=70 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_21" driverlevel=71 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_22" driverlevel=72 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_23" driverlevel=73 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_24" driverlevel=74 clublevel=-1 filter="fiftyplus"
+file = "livery_fiftyplus_25" driverlevel=75 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_120" driverlevel=76 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_138" driverlevel=77 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_147" driverlevel=78 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_102" driverlevel=79 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_99" driverlevel=80 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_122" driverlevel=81 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_94" driverlevel=82 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_144" driverlevel=83 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_132" driverlevel=84 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_128" driverlevel=85 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_123" driverlevel=88 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_145" driverlevel=90 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_127" driverlevel=93 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_148" driverlevel=95 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_121" driverlevel=100 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_124" driverlevel=105 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_134" driverlevel=110 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_139" driverlevel=113 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_140" driverlevel=115 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_142" driverlevel=118 clublevel=-1 filter="fiftyplus"
+file = "livery_bikes_146" driverlevel=120 clublevel=-1 filter="fiftyplus"
+
+# #################################
+
+# MAIN TOUR
+file = "livery_bonus_tour_01" driverlevel=-1 clublevel=-1 tourId=1 tourStarsRequired=225 filter="tour"
+
+# IGNITION TOUR
+file = "livery_bonus_26" driverlevel=1 clublevel=-1 tourId=2 tourStarsRequired=45 filter="tour"
+
+# PHOTO FINISH TOUR
+file = "livery_bonus_32" driverlevel=1 clublevel=-1 tourId=3 tourStarsRequired=45 filter="tour"
+
+# RED LINE PACK TOUR
+file = "livery_bonus_38" driverlevel=1 clublevel=-1 tourId=4 tourStarsRequired=45 filter="tour"
+
+# ELEMENTS PACK TOUR
+file = "livery_bonus_44" driverlevel=1 clublevel=-1 tourId=5 tourStarsRequired=45 filter="tour"
+
+# APEX PACK TOUR
+file = "livery_bonus_50" driverlevel=1 clublevel=-1 tourId=6 tourStarsRequired=45 filter="tour"
+
+# SAKURA PACK TOUR
+file = "livery_bonus_56" driverlevel=1 clublevel=-1 tourId=7 tourStarsRequired=45 filter="tour"
+
+# HOTRODD / DOWNFORCE PACK TOUR
+file = "livery_bonus_62" driverlevel=1 clublevel=-1 tourId=8 tourStarsRequired=45 filter="tour"
+
+# GRAFFITI / MIDDNIGHT PACK TOUR
+file = "livery_bonus_68" driverlevel=1 clublevel=-1 tourId=9 tourStarsRequired=45 filter="tour"
+
+# PACESETTER PACK TOUR
+file = "livery_bonus_74" driverlevel=1 clublevel=-1 tourId=10 tourStarsRequired=45 filter="tour"
+
+# RAGING BULL PACK TOUR
+file = "livery_bonus_80" driverlevel=1 clublevel=-1 tourId=11 tourStarsRequired=45 filter="tour"
+
+# TURBO CHARGED PACK TOUR
+file = "livery_bonus_86" driverlevel=1 clublevel=-1 tourId=12 tourStarsRequired=45 filter="tour"
+
+# EVOLUTION PACK TOUR
+file = "livery_bonus_92" driverlevel=1 clublevel=-1 tourId=13 tourStarsRequired=45 filter="tour"
+
+# LAMBORGHINI ICONS PACK TOUR
+file = "livery_bonus_93" driverlevel=1 clublevel=-1 tourId=14 tourStarsRequired=45 filter="tour"
+
+# TORQUE PACK TOUR
+file = "livery_bonus_94" driverlevel=1 clublevel=-1 tourId=15 tourStarsRequired=45 filter="tour"
+
+# RPM PACK TOUR
+file = "livery_bonus_96" driverlevel=1 clublevel=-1 tourId=16 tourStarsRequired=45 filter="tour"
+
+# VELOCITY PACK TOUR
+file = "livery_bonus_97" driverlevel=1 clublevel=-1 tourId=17 tourStarsRequired=45 filter="tour"
+
+# HORSE POWER PACK TOUR
+file = "livery_bonus_98" driverlevel=1 clublevel=-1 tourId=18 tourStarsRequired=45 filter="tour"
+
+# UNITE IN SPEED PACK TOUR
+file = "livery_bonus_99" driverlevel=1 clublevel=-1 tourId=19 tourStarsRequired=45 filter="tour"
+
+# DRIVECLUB BIKES TOUR
+file = "livery_bikes_93" driverlevel=1 clublevel=-1 tourId=200 tourStarsRequired=162 filter="tour"
+
+# STARTLINE PACK TOUR
+file = "livery_bonus_95" driverlevel=1 clublevel=-1 tourId=999 tourStarsRequired=45 filter="tour"
+
+# ALL STARS PACK TOUR
+file = "livery_bikes_95" driverlevel=1 clublevel=-1 tourId=888 tourStarsRequired=27 filter="tour"
+
+#EBR PACK TOUR
+file = "livery_bikes_108" driverlevel=1 clublevel=-1 tourId=201 tourStarsRequired=27 filter="tour"
+
+# AMG PACK TOUR
+file = "livery_bikes_98" driverlevel=1 clublevel=-1  tourId=20 tourStarsRequired=45 filter="tour"
+
+# SUZUKI PACK TOUR
+file = "livery_bikes_143" driverlevel=1 clublevel=-1 tourId=202 tourStarsRequired=27 filter="tour"
+
+# NO LIMITS PACK TOUR
+file = "livery_bikes_110" driverlevel=1 clublevel=-1  tourId=21 tourStarsRequired=27 filter="tour"
+
+# MV AGUSTA PACK TOUR
+file = "livery_bikes_150" driverlevel=1 clublevel=-1 tourId=203 tourStarsRequired=27 filter="tour"
+
+# FINISH LINE PACK TOUR
+file = "livery_bikes_125" driverlevel=1 clublevel=-1  tourId=22 tourStarsRequired=27 filter="tour"
+
+
+# NORELCO PACK
+file = "livery_bonus_01" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_02" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_03" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_04" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_05" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_06" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_07" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_08" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_09" driverlevel=1 clublevel=-1 filter="bonus"
+file = "livery_bonus_10" driverlevel=1 clublevel=-1 filter="bonus"
+
+# 1st Year anniversary
+file = "livery_bonus_anniversary_01" driverlevel=1 clublevel=-1 filter="bonus"
+
+#OMAR FREE
+file = "livery_bikes_151" driverlevel=1 clublevel=-1 psplus=1 filter="bonus"
+
+# SPECIAL EDITION PACK
+file = "livery_bonus_11" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_12" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_13" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_14" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_15" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_16" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_17" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_18" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_19" driverlevel=1 clublevel=-1 filter="speciale"
+file = "livery_bonus_20" driverlevel=1 clublevel=-1 filter="speciale"
+
+# IGNITION PACK
+file = "livery_bonus_21" driverlevel=1 clublevel=-1 psplus=1 filter="ignition"
+file = "livery_bonus_22" driverlevel=1 clublevel=-1 psplus=1 filter="ignition"
+file = "livery_bonus_23" driverlevel=1 clublevel=-1 psplus=1 filter="ignition"
+file = "livery_bonus_24" driverlevel=1 clublevel=-1 psplus=1 filter="ignition"
+file = "livery_bonus_25" driverlevel=1 clublevel=-1 psplus=1 filter="ignition"
+
+# PHOTO FINISH PACK
+file = "livery_bonus_27" driverlevel=1 clublevel=-1 psplus=1 filter="photo-finish"
+file = "livery_bonus_28" driverlevel=1 clublevel=-1 psplus=1 filter="photo-finish"
+file = "livery_bonus_29" driverlevel=1 clublevel=-1 psplus=1 filter="photo-finish"
+file = "livery_bonus_30" driverlevel=1 clublevel=-1 psplus=1 filter="photo-finish"
+file = "livery_bonus_31" driverlevel=1 clublevel=-1 psplus=1 filter="photo-finish"
+
+# RED LINE PACK
+file = "livery_bonus_33" driverlevel=1 clublevel=-1 psplus=1 filter="redline"
+file = "livery_bonus_34" driverlevel=1 clublevel=-1 psplus=1 filter="redline"
+file = "livery_bonus_35" driverlevel=1 clublevel=-1 psplus=1 filter="redline"
+file = "livery_bonus_36" driverlevel=1 clublevel=-1 psplus=1 filter="redline"
+file = "livery_bonus_37" driverlevel=1 clublevel=-1 psplus=1 filter="redline"
+
+# ELEMENTS PACK
+file = "livery_bonus_39" driverlevel=1 clublevel=-1 psplus=1 filter="elements"
+file = "livery_bonus_40" driverlevel=1 clublevel=-1 psplus=1 filter="elements"
+file = "livery_bonus_41" driverlevel=1 clublevel=-1 psplus=1 filter="elements"
+file = "livery_bonus_42" driverlevel=1 clublevel=-1 psplus=1 filter="elements"
+file = "livery_bonus_43" driverlevel=1 clublevel=-1 psplus=1 filter="elements"
+
+# APEX PACK
+file = "livery_bonus_45" driverlevel=1 clublevel=-1 psplus=1 filter="apex"
+file = "livery_bonus_46" driverlevel=1 clublevel=-1 psplus=1 filter="apex"
+file = "livery_bonus_47" driverlevel=1 clublevel=-1 psplus=1 filter="apex"
+file = "livery_bonus_48" driverlevel=1 clublevel=-1 psplus=1 filter="apex"
+file = "livery_bonus_49" driverlevel=1 clublevel=-1 psplus=1 filter="apex"
+
+# SAKURA PACK
+file = "livery_bonus_51" driverlevel=1 clublevel=-1 psplus=1 filter="sakura"
+file = "livery_bonus_52" driverlevel=1 clublevel=-1 psplus=1 filter="sakura"
+file = "livery_bonus_53" driverlevel=1 clublevel=-1 psplus=1 filter="sakura"
+file = "livery_bonus_54" driverlevel=1 clublevel=-1 psplus=1 filter="sakura"
+file = "livery_bonus_55" driverlevel=1 clublevel=-1 psplus=1 filter="sakura"
+
+# HOTRODD PACK
+file = "livery_bonus_57" driverlevel=1 clublevel=-1 psplus=1 filter="hotrod"
+file = "livery_bonus_58" driverlevel=1 clublevel=-1 psplus=1 filter="hotrod"
+file = "livery_bonus_59" driverlevel=1 clublevel=-1 psplus=1 filter="hotrod"
+file = "livery_bonus_60" driverlevel=1 clublevel=-1 psplus=1 filter="hotrod"
+file = "livery_bonus_61" driverlevel=1 clublevel=-1 psplus=1 filter="hotrod"
+
+# GRAFFITI PACK
+file = "livery_bonus_63" driverlevel=1 clublevel=-1 psplus=1 filter="graffiti"
+file = "livery_bonus_64" driverlevel=1 clublevel=-1 psplus=1 filter="graffiti"
+file = "livery_bonus_65" driverlevel=1 clublevel=-1 psplus=1 filter="graffiti"
+file = "livery_bonus_66" driverlevel=1 clublevel=-1 psplus=1 filter="graffiti"
+file = "livery_bonus_67" driverlevel=1 clublevel=-1 psplus=1 filter="graffiti"
+
+# RAGING BULL PACK
+file = "livery_bonus_69" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini"
+file = "livery_bonus_70" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini"
+file = "livery_bonus_71" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini"
+file = "livery_bonus_72" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini"
+file = "livery_bonus_73" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini"
+
+# PACESETTER PACK
+file = "livery_bonus_75" driverlevel=1 clublevel=-1 psplus=1 filter="pacesetter"
+file = "livery_bonus_76" driverlevel=1 clublevel=-1 psplus=1 filter="pacesetter"
+file = "livery_bonus_77" driverlevel=1 clublevel=-1 psplus=1 filter="pacesetter"
+file = "livery_bonus_78" driverlevel=1 clublevel=-1 psplus=1 filter="pacesetter"
+file = "livery_bonus_79" driverlevel=1 clublevel=-1 psplus=1 filter="pacesetter" 
+
+# TURBO CHARGED
+file = "livery_bonus_81" driverlevel=1 clublevel=-1 psplus=1 filter="turbo-charged"
+file = "livery_bonus_82" driverlevel=1 clublevel=-1 psplus=1 filter="turbo-charged"
+file = "livery_bonus_83" driverlevel=1 clublevel=-1 psplus=1 filter="turbo-charged"
+file = "livery_bonus_84" driverlevel=1 clublevel=-1 psplus=1 filter="turbo-charged"
+file = "livery_bonus_85" driverlevel=1 clublevel=-1 psplus=1 filter="turbo-charged"
+
+# EVOLUTION
+file = "livery_bonus_87" driverlevel=1 clublevel=-1 psplus=1 filter="evolution"
+file = "livery_bonus_88" driverlevel=1 clublevel=-1 psplus=1 filter="evolution"
+file = "livery_bonus_89" driverlevel=1 clublevel=-1 psplus=1 filter="evolution"
+file = "livery_bonus_90" driverlevel=1 clublevel=-1 psplus=1 filter="evolution"
+file = "livery_bonus_91" driverlevel=1 clublevel=-1 psplus=1 filter="evolution"
+
+# LAMBORGHINI ICONS
+file = "livery_icon_1" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini-icons"
+file = "livery_icon_2" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini-icons"
+file = "livery_icon_3" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini-icons"
+file = "livery_icon_4" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini-icons"
+file = "livery_icon_5" driverlevel=1 clublevel=-1 psplus=1 filter="lamborghini-icons"
+
+# TORQUE
+file = "livery_spiro_01" driverlevel=1 clublevel=-1 psplus=1 filter="torque"
+file = "livery_spiro_02" driverlevel=1 clublevel=-1 psplus=1 filter="torque"
+file = "livery_spiro_03" driverlevel=1 clublevel=-1 psplus=1 filter="torque"
+file = "livery_spiro_04" driverlevel=1 clublevel=-1 psplus=1 filter="torque"
+file = "livery_spiro_05" driverlevel=1 clublevel=-1 psplus=1 filter="torque"
+
+# RPM
+file = "livery_rpm_01" driverlevel=1 clublevel=-1 psplus=1 filter="rpm"
+file = "livery_rpm_02" driverlevel=1 clublevel=-1 psplus=1 filter="rpm"
+file = "livery_rpm_03" driverlevel=1 clublevel=-1 psplus=1 filter="rpm"
+file = "livery_rpm_04" driverlevel=1 clublevel=-1 psplus=1 filter="rpm"
+file = "livery_rpm_05" driverlevel=1 clublevel=-1 psplus=1 filter="rpm"
+
+# VELOCITY
+file = "livery_velocity_01" driverlevel=1 clublevel=-1 psplus=1 filter="velocity"
+file = "livery_velocity_02" driverlevel=1 clublevel=-1 psplus=1 filter="velocity"
+file = "livery_velocity_03" driverlevel=1 clublevel=-1 psplus=1 filter="velocity"
+file = "livery_velocity_04" driverlevel=1 clublevel=-1 psplus=1 filter="velocity"
+file = "livery_velocity_05" driverlevel=1 clublevel=-1 psplus=1 filter="velocity"
+
+# HORSE POWER
+file = "livery_horse_1" driverlevel=1 clublevel=-1 psplus=1 filter="horse-power"
+file = "livery_horse_2" driverlevel=1 clublevel=-1 psplus=1 filter="horse-power"
+file = "livery_horse_3" driverlevel=1 clublevel=-1 psplus=1 filter="horse-power"
+file = "livery_horse_4" driverlevel=1 clublevel=-1 psplus=1 filter="horse-power"
+file = "livery_horse_5" driverlevel=1 clublevel=-1 psplus=1 filter="horse-power"
+
+# UNITE IN SPEED
+file = "livery_unite_01" driverlevel=1 clublevel=-1 psplus=1 filter="unite-in-speed"
+file = "livery_unite_02" driverlevel=1 clublevel=-1 psplus=1 filter="unite-in-speed"
+file = "livery_unite_03" driverlevel=1 clublevel=-1 psplus=1 filter="unite-in-speed"
+file = "livery_unite_04" driverlevel=1 clublevel=-1 psplus=1 filter="unite-in-speed"
+file = "livery_unite_05" driverlevel=1 clublevel=-1 psplus=1 filter="unite-in-speed"
+
+# EBR
+file = "livery_bikes_113" driverlevel=1 clublevel=-1 psplus=1 filter="ebr"
+file = "livery_bikes_117" driverlevel=1 clublevel=-1 psplus=1 filter="ebr"
+file = "livery_bikes_118" driverlevel=1 clublevel=-1 psplus=1 filter="ebr"
+file = "livery_bikes_126" driverlevel=1 clublevel=-1 psplus=1 filter="ebr"
+file = "livery_bikes_153" driverlevel=1 clublevel=-1 psplus=1 filter="ebr"
+
+# AMG
+file = "livery_bikes_96" driverlevel=1 clublevel=-1 psplus=1 filter="amg"
+file = "livery_bikes_97" driverlevel=1 clublevel=-1 psplus=1 filter="amg"
+file = "livery_bikes_100" driverlevel=1 clublevel=-1 psplus=1 filter="amg"
+file = "livery_bikes_101" driverlevel=1 clublevel=-1 psplus=1 filter="amg"
+file = "livery_bikes_104" driverlevel=1 clublevel=-1 psplus=1 filter="amg"
+
+
+# BLANK LIVERY
+file = "livery_blank_01" driverlevel=1 clublevel=-1
+
+folder="liveryEditor/assets/designs"
+group="designclub" label="PaintJob" w=512 h=512
+
+file = "livery_dominant_01" driverlevel=-1 clublevel=1
+file = "livery_dominant_02" driverlevel=-1 clublevel=1
+file = "livery_dominant_03" driverlevel=-1 clublevel=1
+file = "livery_dominant_04" driverlevel=-1 clublevel=2
+file = "livery_dominant_05" driverlevel=-1 clublevel=3
+file = "livery_dominant_06" driverlevel=-1 clublevel=4
+file = "livery_dominant_07" driverlevel=-1 clublevel=5
+file = "livery_dominant_08" driverlevel=-1 clublevel=5
+file = "livery_dominant_09" driverlevel=-1 clublevel=6
+file = "livery_dominant_10" driverlevel=-1 clublevel=7
+file = "livery_dominant_11" driverlevel=-1 clublevel=8
+file = "livery_dominant_12" driverlevel=-1 clublevel=9
+file = "livery_dominant_13" driverlevel=-1 clublevel=10
+file = "livery_dominant_14" driverlevel=-1 clublevel=10
+file = "livery_dominant_15" driverlevel=-1 clublevel=11
+file = "livery_dominant_16" driverlevel=-1 clublevel=12
+file = "livery_dominant_17" driverlevel=-1 clublevel=13
+file = "livery_dominant_18" driverlevel=-1 clublevel=14
+file = "livery_dominant_19" driverlevel=-1 clublevel=15
+file = "livery_dominant_20" driverlevel=-1 clublevel=15
+file = "livery_dominant_21" driverlevel=-1 clublevel=16
+file = "livery_dominant_22" driverlevel=-1 clublevel=17
+file = "livery_dominant_23" driverlevel=-1 clublevel=18
+file = "livery_dominant_24" driverlevel=-1 clublevel=19
+file = "livery_dominant_25" driverlevel=-1 clublevel=20
+file = "livery_dominant_26" driverlevel=-1 clublevel=20
+file = "livery_dominant_27" driverlevel=-1 clublevel=21
+file = "livery_dominant_28" driverlevel=-1 clublevel=22
+file = "livery_dominant_29" driverlevel=-1 clublevel=23
+file = "livery_dominant_30" driverlevel=-1 clublevel=24
+file = "livery_dominant_31" driverlevel=-1 clublevel=25
+file = "livery_dominant_32" driverlevel=-1 clublevel=25
+file = "livery_dominant_33" driverlevel=-1 clublevel=26
+file = "livery_dominant_34" driverlevel=-1 clublevel=27
+file = "livery_dominant_35" driverlevel=-1 clublevel=28
+file = "livery_dominant_36" driverlevel=-1 clublevel=29
+file = "livery_dominant_37" driverlevel=-1 clublevel=30
+file = "livery_dominant_38" driverlevel=-1 clublevel=30
+file = "livery_dominant_39" driverlevel=-1 clublevel=31
+file = "livery_dominant_40" driverlevel=-1 clublevel=32
+file = "livery_dominant_41" driverlevel=-1 clublevel=33
+file = "livery_dominant_42" driverlevel=-1 clublevel=34
+file = "livery_dominant_43" driverlevel=-1 clublevel=35
+file = "livery_dominant_44" driverlevel=-1 clublevel=35
+file = "livery_dominant_45" driverlevel=-1 clublevel=36
+file = "livery_dominant_46" driverlevel=-1 clublevel=37
+file = "livery_dominant_47" driverlevel=-1 clublevel=38
+file = "livery_dominant_48" driverlevel=-1 clublevel=39
+file = "livery_dominant_49" driverlevel=-1 clublevel=40
+file = "livery_dominant_50" driverlevel=-1 clublevel=40
+file = "livery_dominant_51" driverlevel=-1 clublevel=41
+file = "livery_dominant_52" driverlevel=-1 clublevel=42
+file = "livery_dominant_53" driverlevel=-1 clublevel=43
+file = "livery_dominant_54" driverlevel=-1 clublevel=44
+file = "livery_dominant_55" driverlevel=-1 clublevel=45
+file = "livery_dominant_56" driverlevel=-1 clublevel=45
+file = "livery_dominant_57" driverlevel=-1 clublevel=46
+file = "livery_dominant_58" driverlevel=-1 clublevel=47
+file = "livery_dominant_59" driverlevel=-1 clublevel=48
+file = "livery_dominant_60" driverlevel=-1 clublevel=49
+file = "livery_dominant_61" driverlevel=-1 clublevel=50
+file = "livery_dominant_62" driverlevel=-1 clublevel=50
+file = "livery_dominant_63" driverlevel=-1 clublevel=50
+
+file = "livery_dynamic_01" driverlevel=-1 clublevel=1
+file = "livery_dynamic_02" driverlevel=-1 clublevel=1
+file = "livery_dynamic_03" driverlevel=-1 clublevel=1
+file = "livery_dynamic_04" driverlevel=-1 clublevel=1
+file = "livery_dynamic_05" driverlevel=-1 clublevel=1
+file = "livery_dynamic_06" driverlevel=-1 clublevel=2
+file = "livery_dynamic_07" driverlevel=-1 clublevel=3
+file = "livery_dynamic_08" driverlevel=-1 clublevel=4
+file = "livery_dynamic_09" driverlevel=-1 clublevel=5
+file = "livery_dynamic_10" driverlevel=-1 clublevel=5
+file = "livery_dynamic_11" driverlevel=-1 clublevel=5
+file = "livery_dynamic_12" driverlevel=-1 clublevel=5
+file = "livery_dynamic_13" driverlevel=-1 clublevel=6
+file = "livery_dynamic_14" driverlevel=-1 clublevel=7
+file = "livery_dynamic_15" driverlevel=-1 clublevel=8
+file = "livery_dynamic_16" driverlevel=-1 clublevel=9
+file = "livery_dynamic_17" driverlevel=-1 clublevel=10
+file = "livery_dynamic_18" driverlevel=-1 clublevel=10
+file = "livery_dynamic_19" driverlevel=-1 clublevel=10
+file = "livery_dynamic_20" driverlevel=-1 clublevel=10
+file = "livery_dynamic_21" driverlevel=-1 clublevel=11
+file = "livery_dynamic_22" driverlevel=-1 clublevel=12
+file = "livery_dynamic_23" driverlevel=-1 clublevel=13
+file = "livery_dynamic_24" driverlevel=-1 clublevel=14
+file = "livery_dynamic_25" driverlevel=-1 clublevel=15
+file = "livery_dynamic_26" driverlevel=-1 clublevel=15
+file = "livery_dynamic_27" driverlevel=-1 clublevel=15
+file = "livery_dynamic_28" driverlevel=-1 clublevel=15
+file = "livery_dynamic_29" driverlevel=-1 clublevel=16
+file = "livery_dynamic_30" driverlevel=-1 clublevel=17
+file = "livery_dynamic_31" driverlevel=-1 clublevel=18
+file = "livery_dynamic_32" driverlevel=-1 clublevel=19
+file = "livery_dynamic_33" driverlevel=-1 clublevel=20
+file = "livery_dynamic_34" driverlevel=-1 clublevel=20
+file = "livery_dynamic_35" driverlevel=-1 clublevel=20
+file = "livery_dynamic_36" driverlevel=-1 clublevel=20
+file = "livery_dynamic_37" driverlevel=-1 clublevel=21
+file = "livery_dynamic_38" driverlevel=-1 clublevel=22
+file = "livery_dynamic_39" driverlevel=-1 clublevel=23
+file = "livery_dynamic_40" driverlevel=-1 clublevel=24
+file = "livery_dynamic_41" driverlevel=-1 clublevel=25
+file = "livery_dynamic_42" driverlevel=-1 clublevel=25
+file = "livery_dynamic_43" driverlevel=-1 clublevel=25
+file = "livery_dynamic_44" driverlevel=-1 clublevel=25
+file = "livery_dynamic_45" driverlevel=-1 clublevel=26
+file = "livery_dynamic_46" driverlevel=-1 clublevel=27
+file = "livery_dynamic_47" driverlevel=-1 clublevel=28
+file = "livery_dynamic_48" driverlevel=-1 clublevel=29
+file = "livery_dynamic_49" driverlevel=-1 clublevel=30
+file = "livery_dynamic_50" driverlevel=-1 clublevel=30
+file = "livery_dynamic_51" driverlevel=-1 clublevel=30
+file = "livery_dynamic_52" driverlevel=-1 clublevel=30
+file = "livery_dynamic_53" driverlevel=-1 clublevel=31
+file = "livery_dynamic_54" driverlevel=-1 clublevel=32
+file = "livery_dynamic_55" driverlevel=-1 clublevel=33
+file = "livery_dynamic_56" driverlevel=-1 clublevel=34
+file = "livery_dynamic_57" driverlevel=-1 clublevel=35
+file = "livery_dynamic_58" driverlevel=-1 clublevel=35
+file = "livery_dynamic_59" driverlevel=-1 clublevel=35
+file = "livery_dynamic_60" driverlevel=-1 clublevel=35
+file = "livery_dynamic_61" driverlevel=-1 clublevel=36
+file = "livery_dynamic_62" driverlevel=-1 clublevel=37
+file = "livery_dynamic_63" driverlevel=-1 clublevel=38
+file = "livery_dynamic_64" driverlevel=-1 clublevel=39
+file = "livery_dynamic_65" driverlevel=-1 clublevel=40
+file = "livery_dynamic_66" driverlevel=-1 clublevel=40
+file = "livery_dynamic_67" driverlevel=-1 clublevel=40
+file = "livery_dynamic_68" driverlevel=-1 clublevel=40
+file = "livery_dynamic_69" driverlevel=-1 clublevel=41
+file = "livery_dynamic_70" driverlevel=-1 clublevel=42
+file = "livery_dynamic_03" driverlevel=-1 clublevel=43
+file = "livery_dynamic_04" driverlevel=-1 clublevel=44
+file = "livery_dynamic_05" driverlevel=-1 clublevel=45
+file = "livery_dynamic_74" driverlevel=-1 clublevel=45
+file = "livery_dynamic_75" driverlevel=-1 clublevel=45
+file = "livery_dynamic_76" driverlevel=-1 clublevel=45
+file = "livery_dynamic_77" driverlevel=-1 clublevel=46
+file = "livery_dynamic_78" driverlevel=-1 clublevel=47
+file = "livery_dynamic_79" driverlevel=-1 clublevel=48
+file = "livery_dynamic_80" driverlevel=-1 clublevel=49
+file = "livery_dynamic_81" driverlevel=-1 clublevel=50
+file = "livery_dynamic_82" driverlevel=-1 clublevel=50
+file = "livery_dynamic_83" driverlevel=-1 clublevel=50
+file = "livery_dynamic_84" driverlevel=-1 clublevel=50
+file = "livery_dynamic_85" driverlevel=-1 clublevel=50
+
+file = "livery_rebel_01" driverlevel=-1 clublevel=1
+file = "livery_rebel_02" driverlevel=-1 clublevel=1
+file = "livery_rebel_03" driverlevel=-1 clublevel=2
+file = "livery_rebel_04" driverlevel=-1 clublevel=3
+file = "livery_rebel_05" driverlevel=-1 clublevel=4
+file = "livery_rebel_06" driverlevel=-1 clublevel=5
+file = "livery_rebel_07" driverlevel=-1 clublevel=5
+file = "livery_rebel_08" driverlevel=-1 clublevel=5
+file = "livery_rebel_09" driverlevel=-1 clublevel=6
+file = "livery_rebel_10" driverlevel=-1 clublevel=7
+file = "livery_rebel_11" driverlevel=-1 clublevel=8
+file = "livery_rebel_12" driverlevel=-1 clublevel=9
+file = "livery_rebel_13" driverlevel=-1 clublevel=10
+file = "livery_rebel_14" driverlevel=-1 clublevel=10
+file = "livery_rebel_15" driverlevel=-1 clublevel=11
+file = "livery_rebel_16" driverlevel=-1 clublevel=12
+file = "livery_rebel_17" driverlevel=-1 clublevel=13
+file = "livery_rebel_18" driverlevel=-1 clublevel=14
+file = "livery_rebel_19" driverlevel=-1 clublevel=15
+file = "livery_rebel_20" driverlevel=-1 clublevel=15
+file = "livery_rebel_21" driverlevel=-1 clublevel=15
+file = "livery_rebel_22" driverlevel=-1 clublevel=16
+file = "livery_rebel_23" driverlevel=-1 clublevel=17
+file = "livery_rebel_24" driverlevel=-1 clublevel=18
+file = "livery_rebel_25" driverlevel=-1 clublevel=19
+file = "livery_rebel_26" driverlevel=-1 clublevel=20
+file = "livery_rebel_27" driverlevel=-1 clublevel=20
+file = "livery_rebel_28" driverlevel=-1 clublevel=21
+file = "livery_rebel_29" driverlevel=-1 clublevel=22
+file = "livery_rebel_30" driverlevel=-1 clublevel=23
+file = "livery_rebel_31" driverlevel=-1 clublevel=24
+file = "livery_rebel_32" driverlevel=-1 clublevel=25
+file = "livery_rebel_33" driverlevel=-1 clublevel=25
+file = "livery_rebel_34" driverlevel=-1 clublevel=25
+file = "livery_rebel_35" driverlevel=-1 clublevel=26
+file = "livery_rebel_36" driverlevel=-1 clublevel=27
+file = "livery_rebel_37" driverlevel=-1 clublevel=28
+file = "livery_rebel_38" driverlevel=-1 clublevel=29
+file = "livery_rebel_39" driverlevel=-1 clublevel=30
+file = "livery_rebel_40" driverlevel=-1 clublevel=30
+file = "livery_rebel_41" driverlevel=-1 clublevel=31
+file = "livery_rebel_42" driverlevel=-1 clublevel=32
+file = "livery_rebel_43" driverlevel=-1 clublevel=33
+file = "livery_rebel_44" driverlevel=-1 clublevel=34
+file = "livery_rebel_45" driverlevel=-1 clublevel=35
+file = "livery_rebel_46" driverlevel=-1 clublevel=35
+file = "livery_rebel_47" driverlevel=-1 clublevel=35
+file = "livery_rebel_48" driverlevel=-1 clublevel=36
+file = "livery_rebel_49" driverlevel=-1 clublevel=37
+file = "livery_rebel_50" driverlevel=-1 clublevel=38
+file = "livery_rebel_51" driverlevel=-1 clublevel=39
+file = "livery_rebel_52" driverlevel=-1 clublevel=40
+file = "livery_rebel_53" driverlevel=-1 clublevel=40
+file = "livery_rebel_54" driverlevel=-1 clublevel=41
+file = "livery_rebel_55" driverlevel=-1 clublevel=42
+file = "livery_rebel_56" driverlevel=-1 clublevel=43
+file = "livery_rebel_57" driverlevel=-1 clublevel=44
+file = "livery_rebel_58" driverlevel=-1 clublevel=45
+file = "livery_rebel_59" driverlevel=-1 clublevel=45
+file = "livery_rebel_60" driverlevel=-1 clublevel=45
+file = "livery_rebel_61" driverlevel=-1 clublevel=46
+file = "livery_rebel_62" driverlevel=-1 clublevel=47
+file = "livery_rebel_63" driverlevel=-1 clublevel=48
+file = "livery_rebel_64" driverlevel=-1 clublevel=49
+file = "livery_rebel_65" driverlevel=-1 clublevel=50
+file = "livery_rebel_66" driverlevel=-1 clublevel=50
+file = "livery_rebel_67" driverlevel=-1 clublevel=50
+
+file = "livery_master_01" driverlevel=-1 clublevel=1
+file = "livery_master_02" driverlevel=-1 clublevel=1
+file = "livery_master_03" driverlevel=-1 clublevel=1
+file = "livery_master_04" driverlevel=-1 clublevel=2
+file = "livery_master_05" driverlevel=-1 clublevel=3
+file = "livery_master_06" driverlevel=-1 clublevel=4
+file = "livery_master_07" driverlevel=-1 clublevel=5
+file = "livery_master_08" driverlevel=-1 clublevel=5
+file = "livery_master_09" driverlevel=-1 clublevel=5
+file = "livery_master_10" driverlevel=-1 clublevel=6
+file = "livery_master_11" driverlevel=-1 clublevel=7
+file = "livery_master_12" driverlevel=-1 clublevel=8
+file = "livery_master_13" driverlevel=-1 clublevel=9
+file = "livery_master_14" driverlevel=-1 clublevel=10
+file = "livery_master_15" driverlevel=-1 clublevel=10
+file = "livery_master_16" driverlevel=-1 clublevel=10
+file = "livery_master_17" driverlevel=-1 clublevel=10
+file = "livery_master_18" driverlevel=-1 clublevel=11
+file = "livery_master_19" driverlevel=-1 clublevel=12
+file = "livery_master_20" driverlevel=-1 clublevel=13
+file = "livery_master_21" driverlevel=-1 clublevel=14
+file = "livery_master_22" driverlevel=-1 clublevel=15
+file = "livery_master_23" driverlevel=-1 clublevel=15
+file = "livery_master_24" driverlevel=-1 clublevel=15
+file = "livery_master_25" driverlevel=-1 clublevel=16
+file = "livery_master_26" driverlevel=-1 clublevel=17
+file = "livery_master_27" driverlevel=-1 clublevel=18
+file = "livery_master_28" driverlevel=-1 clublevel=19
+file = "livery_master_29" driverlevel=-1 clublevel=20
+file = "livery_master_30" driverlevel=-1 clublevel=20
+file = "livery_master_31" driverlevel=-1 clublevel=20
+file = "livery_master_32" driverlevel=-1 clublevel=20
+file = "livery_master_33" driverlevel=-1 clublevel=21
+file = "livery_master_34" driverlevel=-1 clublevel=22
+file = "livery_master_35" driverlevel=-1 clublevel=23
+file = "livery_master_36" driverlevel=-1 clublevel=24
+file = "livery_master_37" driverlevel=-1 clublevel=25
+file = "livery_master_38" driverlevel=-1 clublevel=25
+file = "livery_master_39" driverlevel=-1 clublevel=25
+file = "livery_master_40" driverlevel=-1 clublevel=26
+file = "livery_master_41" driverlevel=-1 clublevel=27
+file = "livery_master_42" driverlevel=-1 clublevel=28
+file = "livery_master_43" driverlevel=-1 clublevel=29
+file = "livery_master_44" driverlevel=-1 clublevel=30
+file = "livery_master_45" driverlevel=-1 clublevel=30
+file = "livery_master_46" driverlevel=-1 clublevel=30
+file = "livery_master_47" driverlevel=-1 clublevel=30
+file = "livery_master_48" driverlevel=-1 clublevel=31
+file = "livery_master_49" driverlevel=-1 clublevel=32
+file = "livery_master_50" driverlevel=-1 clublevel=33
+file = "livery_master_51" driverlevel=-1 clublevel=34
+file = "livery_master_52" driverlevel=-1 clublevel=35
+file = "livery_master_53" driverlevel=-1 clublevel=35
+file = "livery_master_54" driverlevel=-1 clublevel=35
+file = "livery_master_55" driverlevel=-1 clublevel=36
+file = "livery_master_56" driverlevel=-1 clublevel=37
+file = "livery_master_57" driverlevel=-1 clublevel=38
+file = "livery_master_58" driverlevel=-1 clublevel=39
+file = "livery_master_59" driverlevel=-1 clublevel=40
+file = "livery_master_60" driverlevel=-1 clublevel=40
+file = "livery_master_61" driverlevel=-1 clublevel=40
+file = "livery_master_62" driverlevel=-1 clublevel=40
+file = "livery_master_63" driverlevel=-1 clublevel=41
+file = "livery_master_64" driverlevel=-1 clublevel=42
+file = "livery_master_65" driverlevel=-1 clublevel=43
+file = "livery_master_66" driverlevel=-1 clublevel=44
+file = "livery_master_67" driverlevel=-1 clublevel=45
+file = "livery_master_68" driverlevel=-1 clublevel=45
+file = "livery_master_69" driverlevel=-1 clublevel=45
+file = "livery_master_70" driverlevel=-1 clublevel=46
+file = "livery_master_71" driverlevel=-1 clublevel=47
+file = "livery_master_72" driverlevel=-1 clublevel=48
+file = "livery_master_73" driverlevel=-1 clublevel=49
+file = "livery_master_74" driverlevel=-1 clublevel=50
+file = "livery_master_75" driverlevel=-1 clublevel=50
+
+file = "livery_fiftyplus_club_55" driverlevel=-1 clublevel=55
+file = "livery_fiftyplus_club_60" driverlevel=-1 clublevel=60
+file = "livery_fiftyplus_club_65" driverlevel=-1 clublevel=65
+file = "livery_fiftyplus_club_70" driverlevel=-1 clublevel=70
+file = "livery_fiftyplus_club_75" driverlevel=-1 clublevel=75
+file = "livery_fiftyplus_club_80" driverlevel=-1 clublevel=80
+file = "livery_fiftyplus_club_85" driverlevel=-1 clublevel=85
+file = "livery_fiftyplus_club_90" driverlevel=-1 clublevel=90
+file = "livery_fiftyplus_club_95" driverlevel=-1 clublevel=95
+file = "livery_fiftyplus_club_100" driverlevel=-1 clublevel=100
+file = "livery_fiftyplus_club_105" driverlevel=-1 clublevel=105
+file = "livery_fiftyplus_club_110" driverlevel=-1 clublevel=110
+file = "livery_fiftyplus_club_115" driverlevel=-1 clublevel=115
+file = "livery_fiftyplus_club_120" driverlevel=-1 clublevel=120
+
+file = "livery_blank_01" driverlevel=-1 clublevel=1
+
+
+folder="liveryEditor/assets/club_shield"
+group="shield" label="club_badge_shield" w=512 h=512
+
+file = "clubbadge_shield_dominant_01" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_02" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_03" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_04" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_05" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_06" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dominant_07" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dominant_08" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dominant_09" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dominant_10" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dominant_11" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dominant_12" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dominant_13" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dominant_14" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dominant_15" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dominant_16" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dominant_17" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dominant_18" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dominant_19" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dominant_20" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dominant_21" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dominant_22" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dominant_23" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dominant_24" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dominant_25" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dominant_26" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dominant_27" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dominant_28" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dominant_29" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dominant_30" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dominant_31" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dominant_32" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dominant_33" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dominant_34" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dominant_35" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dominant_36" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dominant_37" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dominant_38" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dominant_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_shield_dynamic_01" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_02" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_03" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_04" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_05" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_06" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_dynamic_07" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dynamic_08" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dynamic_09" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_dynamic_10" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dynamic_11" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dynamic_12" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_dynamic_13" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dynamic_14" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dynamic_15" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_dynamic_16" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dynamic_17" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dynamic_18" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_dynamic_19" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dynamic_20" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dynamic_21" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_dynamic_22" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dynamic_23" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dynamic_24" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_dynamic_25" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dynamic_26" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dynamic_27" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_dynamic_28" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dynamic_29" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dynamic_30" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_dynamic_31" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dynamic_32" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dynamic_33" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_dynamic_34" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dynamic_35" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dynamic_36" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dynamic_37" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dynamic_38" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_dynamic_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_shield_rebel_01" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_02" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_03" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_04" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_05" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_06" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_rebel_07" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_rebel_08" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_rebel_09" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_rebel_10" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_rebel_11" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_rebel_12" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_rebel_13" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_rebel_14" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_rebel_15" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_rebel_16" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_rebel_17" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_rebel_18" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_rebel_19" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_rebel_20" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_rebel_21" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_rebel_22" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_rebel_23" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_rebel_24" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_rebel_25" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_rebel_26" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_rebel_27" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_rebel_28" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_rebel_29" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_rebel_30" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_rebel_31" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_rebel_32" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_rebel_33" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_rebel_34" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_rebel_35" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_rebel_36" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_rebel_37" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_rebel_38" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_rebel_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_shield_master_01" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_02" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_03" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_04" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_05" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_06" driverlevel=-1 clublevel=1
+file = "clubbadge_shield_master_07" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_master_08" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_master_09" driverlevel=-1 clublevel=5
+file = "clubbadge_shield_master_10" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_master_11" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_master_12" driverlevel=-1 clublevel=10
+file = "clubbadge_shield_master_13" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_master_14" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_master_15" driverlevel=-1 clublevel=15
+file = "clubbadge_shield_master_16" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_master_17" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_master_18" driverlevel=-1 clublevel=20
+file = "clubbadge_shield_master_19" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_master_20" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_master_21" driverlevel=-1 clublevel=25
+file = "clubbadge_shield_master_22" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_master_23" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_master_24" driverlevel=-1 clublevel=30
+file = "clubbadge_shield_master_25" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_master_26" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_master_27" driverlevel=-1 clublevel=35
+file = "clubbadge_shield_master_28" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_master_29" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_master_30" driverlevel=-1 clublevel=40
+file = "clubbadge_shield_master_31" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_master_32" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_master_33" driverlevel=-1 clublevel=45
+file = "clubbadge_shield_master_34" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_master_35" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_master_36" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_master_37" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_master_38" driverlevel=-1 clublevel=50
+file = "clubbadge_shield_master_39" driverlevel=-1 clublevel=50
+
+folder="liveryEditor/assets/club_flourish"
+group="flourish" label="club_badge_flourish" w=512 h=512
+
+file = "clubbadge_flourish_dominant_01" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_02" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_03" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_04" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_05" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_06" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dominant_07" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dominant_08" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dominant_09" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dominant_10" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dominant_11" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dominant_12" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dominant_13" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dominant_14" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dominant_15" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dominant_16" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dominant_17" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dominant_18" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dominant_19" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dominant_20" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dominant_21" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dominant_22" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dominant_23" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dominant_24" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dominant_25" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dominant_26" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dominant_27" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dominant_28" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dominant_29" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dominant_30" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dominant_31" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dominant_32" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dominant_33" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dominant_34" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dominant_35" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dominant_36" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dominant_37" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dominant_38" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dominant_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_flourish_dynamic_01" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_02" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_03" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_04" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_05" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_06" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_dynamic_07" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dynamic_08" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dynamic_09" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_dynamic_10" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dynamic_11" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dynamic_12" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_dynamic_13" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dynamic_14" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dynamic_15" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_dynamic_16" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dynamic_17" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dynamic_18" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_dynamic_19" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dynamic_20" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dynamic_21" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_dynamic_22" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dynamic_23" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dynamic_24" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_dynamic_25" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dynamic_26" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dynamic_27" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_dynamic_28" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dynamic_29" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dynamic_30" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_dynamic_31" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dynamic_32" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dynamic_33" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_dynamic_34" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dynamic_35" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dynamic_36" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dynamic_37" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dynamic_38" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_dynamic_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_flourish_rebel_01" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_02" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_03" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_04" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_05" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_06" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_rebel_07" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_rebel_08" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_rebel_09" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_rebel_10" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_rebel_11" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_rebel_12" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_rebel_13" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_rebel_14" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_rebel_15" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_rebel_16" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_rebel_17" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_rebel_18" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_rebel_19" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_rebel_20" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_rebel_21" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_rebel_22" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_rebel_23" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_rebel_24" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_rebel_25" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_rebel_26" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_rebel_27" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_rebel_28" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_rebel_29" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_rebel_30" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_rebel_31" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_rebel_32" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_rebel_33" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_rebel_34" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_rebel_35" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_rebel_36" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_rebel_37" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_rebel_38" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_rebel_39" driverlevel=-1 clublevel=50
+
+
+file = "clubbadge_flourish_master_01" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_02" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_03" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_04" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_05" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_06" driverlevel=-1 clublevel=1
+file = "clubbadge_flourish_master_07" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_master_08" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_master_09" driverlevel=-1 clublevel=5
+file = "clubbadge_flourish_master_10" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_master_11" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_master_12" driverlevel=-1 clublevel=10
+file = "clubbadge_flourish_master_13" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_master_14" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_master_15" driverlevel=-1 clublevel=15
+file = "clubbadge_flourish_master_16" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_master_17" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_master_18" driverlevel=-1 clublevel=20
+file = "clubbadge_flourish_master_19" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_master_20" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_master_21" driverlevel=-1 clublevel=25
+file = "clubbadge_flourish_master_22" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_master_23" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_master_24" driverlevel=-1 clublevel=30
+file = "clubbadge_flourish_master_25" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_master_26" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_master_27" driverlevel=-1 clublevel=35
+file = "clubbadge_flourish_master_28" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_master_29" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_master_30" driverlevel=-1 clublevel=40
+file = "clubbadge_flourish_master_31" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_master_32" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_master_33" driverlevel=-1 clublevel=45
+file = "clubbadge_flourish_master_34" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_master_35" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_master_36" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_master_37" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_master_38" driverlevel=-1 clublevel=50
+file = "clubbadge_flourish_master_39" driverlevel=-1 clublevel=50
+
+
+folder="liveryEditor/assets/club_symbol"
+group="symbol" label="club_badge_symbol" w=512 h=512
+
+file = "clubbadge_symbol_dominant_01" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_02" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_03" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_04" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_05" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_06" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_07" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_08" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_09" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dominant_10" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dominant_11" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dominant_12" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dominant_13" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dominant_14" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dominant_15" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dominant_16" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dominant_17" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dominant_18" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dominant_19" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dominant_20" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dominant_21" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dominant_22" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_23" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_24" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_25" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_26" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_27" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dominant_28" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dominant_29" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dominant_30" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dominant_31" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dominant_32" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dominant_33" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dominant_34" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dominant_35" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dominant_36" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dominant_37" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dominant_38" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dominant_39" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dominant_40" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_41" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_42" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_43" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_44" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_45" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_46" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_47" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_48" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_49" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dominant_50" driverlevel=-1 clublevel=50
+
+file = "clubbadge_symbol_dynamic_01" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_02" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_03" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_04" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_05" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_06" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_07" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_08" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_09" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_dynamic_10" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dynamic_11" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dynamic_12" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_dynamic_13" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dynamic_14" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dynamic_15" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_dynamic_16" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dynamic_17" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dynamic_18" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_dynamic_19" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dynamic_20" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dynamic_21" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_dynamic_22" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_23" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_24" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_25" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_26" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_27" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_dynamic_28" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dynamic_29" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dynamic_30" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_dynamic_31" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dynamic_32" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dynamic_33" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_dynamic_34" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dynamic_35" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dynamic_36" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_dynamic_37" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dynamic_38" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dynamic_39" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_dynamic_40" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_41" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_42" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_43" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_44" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_45" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_46" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_47" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_48" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_49" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_dynamic_50" driverlevel=-1 clublevel=50
+
+file = "clubbadge_symbol_rebel_01" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_02" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_03" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_04" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_05" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_06" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_07" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_08" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_09" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_rebel_10" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_rebel_11" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_rebel_12" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_rebel_13" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_rebel_14" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_rebel_15" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_rebel_16" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_rebel_17" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_rebel_18" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_rebel_19" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_rebel_20" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_rebel_21" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_rebel_22" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_23" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_24" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_25" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_26" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_27" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_rebel_28" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_rebel_29" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_rebel_30" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_rebel_31" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_rebel_32" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_rebel_33" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_rebel_34" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_rebel_35" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_rebel_36" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_rebel_37" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_rebel_38" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_rebel_39" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_rebel_40" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_41" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_42" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_43" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_44" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_45" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_46" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_47" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_48" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_49" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_rebel_50" driverlevel=-1 clublevel=50
+
+file = "clubbadge_symbol_master_01" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_02" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_03" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_04" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_05" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_06" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_07" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_08" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_09" driverlevel=-1 clublevel=1
+file = "clubbadge_symbol_master_10" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_master_11" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_master_12" driverlevel=-1 clublevel=5
+file = "clubbadge_symbol_master_13" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_master_14" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_master_15" driverlevel=-1 clublevel=10
+file = "clubbadge_symbol_master_16" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_master_17" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_master_18" driverlevel=-1 clublevel=15
+file = "clubbadge_symbol_master_19" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_master_20" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_master_21" driverlevel=-1 clublevel=20
+file = "clubbadge_symbol_master_22" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_23" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_24" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_25" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_26" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_27" driverlevel=-1 clublevel=25
+file = "clubbadge_symbol_master_28" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_master_29" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_master_30" driverlevel=-1 clublevel=30
+file = "clubbadge_symbol_master_31" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_master_32" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_master_33" driverlevel=-1 clublevel=35
+file = "clubbadge_symbol_master_34" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_master_35" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_master_36" driverlevel=-1 clublevel=40
+file = "clubbadge_symbol_master_37" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_master_38" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_master_39" driverlevel=-1 clublevel=45
+file = "clubbadge_symbol_master_40" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_41" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_42" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_43" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_44" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_45" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_46" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_47" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_48" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_49" driverlevel=-1 clublevel=50
+file = "clubbadge_symbol_master_50" driverlevel=-1 clublevel=50
