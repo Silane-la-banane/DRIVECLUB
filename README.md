@@ -2,7 +2,7 @@
 
 This repo allows you do unlock DLCs and online cars.
 
-Tutorial: LINK
+Tutorial: [LINK](https://www.youtube.com/watch?v=T1CbWbsUgLE)
 
 ## How does it work?
 The AFR plugin allows you to replace game files directly on a game without creating a fake update package. So on this README, you will see how to install the AFR plugins and put the new required files on your console.
