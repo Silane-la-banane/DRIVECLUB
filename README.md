@@ -32,8 +32,8 @@ For PS5, I don't know.
 For simpler handling, we will use FTP, which allows us to modify PS4 files from a computer.
 I am using WinSCP for this tutorial.
 
-[WinSCP for Windows](https://winscp.net/eng/download.php)
-[FileZilla for Linux users and old macs](https://filezilla-project.org/)
+- [WinSCP for Windows](https://winscp.net/eng/download.php)
+- [FileZilla for Linux users and old macs](https://filezilla-project.org/)
 
 Be sure to have the FTP server enabled by checking on the GoldHen menu -> Servers Settings-> Enable FTP Server
 
