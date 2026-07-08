@@ -26,6 +26,8 @@ To continue, you **must** have :
   <img src="https://raw.githubusercontent.com/Silane-la-banane/DRIVECLUB/refs/heads/main/github_images/fleche_inversee.gif" alt="Sublime's custom image" width=50% />
   </p>
 
+For PS5, I don't know.
+
 ## Step 1: FTP connection
 For simpler handling, we will use FTP, which allows us to modify PS4 files from a computer.
 I am using WinSCP for this tutorial.
