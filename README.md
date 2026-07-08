@@ -74,3 +74,14 @@ To easily check, sort by manufacturers, and search for bikes.
 
 If there is still the Playstation Store logo, it means you failed somewhere.
 In this case, delete everything you did in this tutorial, and try again.
+
+
+## Credits
+
+DRIVECLUB Mega Fix by ctrl on the DRIVECLUB modding Discord
+GoldPlugins : [Link](https://github.com/GoldHEN/GoldHEN_Plugins_Repository)
+
+## Joins us
+
+[DRIVECLUB](https://discord.gg/YhJMFwyTSQ)
+[DRIVECLUB modding server](https://discord.gg/mnJhXSh8v6)
