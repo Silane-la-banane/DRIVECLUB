@@ -83,5 +83,5 @@ GoldPlugins : [Link](https://github.com/GoldHEN/GoldHEN_Plugins_Repository)
 
 ## Joins us
 
-[DRIVECLUB](https://discord.gg/YhJMFwyTSQ)
-[DRIVECLUB modding server](https://discord.gg/mnJhXSh8v6)
+- [DRIVECLUB](https://discord.gg/YhJMFwyTSQ)
+- [DRIVECLUB modding server](https://discord.gg/mnJhXSh8v6)
