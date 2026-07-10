@@ -67,7 +67,7 @@ You should have 3 folders (data, liveryeditor and newdata) in /data/GoldHEN/AFR/
 
 Be sure to have the plugins activated by checking on the GoldHen menu -> Plugin Settings-> Enable Plugins Loader
 
-Now if you go into your garage, you should see all 114 cars.
+Now if you go into your garage, you should see all 137 vehicles.
 To easily check, sort by manufacturers, and search for bikes.
 
 ![DC_ingame](https://raw.githubusercontent.com/Silane-la-banane/DRIVECLUB/refs/heads/main/github_images/DC_ingame.gif)
