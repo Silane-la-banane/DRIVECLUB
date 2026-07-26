@@ -55,11 +55,11 @@ When connecting to your console, fill the infos :
 
 In the /data/GoldHEN/ folder, put the plugin.ini file and the plugins folder. If you already have some plugins enabled for other games, open both plugin.ini files and copy/paste my content. It begin with ; DRIVECLUB BEGIN and end with ; DRIVECLUB END
 
-On /data/GoldHEN/, create /AFR/[TITLE_ID], in my case the path is /data/GoldHEN/AFR/CUSA00093/.
+On `/data/GoldHEN/`, create `/AFR/[TITLE_ID]`, in my case the path is `/data/GoldHEN/AFR/CUSA00093/`.
 
 Once created, unzip the file Driveclub Mega Fix and put its content inside.
 
-You should have 3 folders (data, liveryeditor and newdata) in /data/GoldHEN/AFR/CUSA00093/
+You should have 3 folders (data, liveryeditor and newdata) in `/data/GoldHEN/AFR/CUSA00093/`
 
 ![FTP GIF](https://raw.githubusercontent.com/Silane-la-banane/DRIVECLUB/refs/heads/main/github_images/FTP_connection.gif)
 
@@ -78,7 +78,8 @@ In this case, delete everything you did in this tutorial, and try again.
 
 ## Credits
 
-DRIVECLUB Mega Fix by ctrl on the DRIVECLUB modding Discord
+DRIVECLUB Mega Fix by ctrl on the DRIVECLUB modding Discord.
+
 GoldPlugins : [Link](https://github.com/GoldHEN/GoldHEN_Plugins_Repository)
 
 ## Joins us
